@@ -14,12 +14,12 @@
     }
 }
 
-.content-div {
+/* .content-div {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
     height: 250px;
-}
+} */
 
 .content-div:hover {
     background-image: linear-gradient(
@@ -29,9 +29,9 @@
     )!important;
 }
 
-.content-photo {
+/* .content-photo {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
     height: 250px;
-}
+} */

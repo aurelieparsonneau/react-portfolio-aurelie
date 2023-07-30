@@ -16,7 +16,7 @@ const Skills = () => {
       <div className="max-w-[1000px] mx-auto p-20 flex flex-col justify-center w-full h-full">
         <div>
           <p className="text-4xl font-bold inline border-b-4 border-yellow-600">
-            Experience
+            Expériences
           </p>
           <p className="py-4">
             Technologies que j'ai étudié lors de ma formation
@@ -49,7 +49,7 @@ const Skills = () => {
             <p className="my-4">TailWind</p>
           </div>
           <div className="shadow-ad shadow-[#040c16] hover:scale-110 duration-500">
-            <img className="w-20 mx-auto pt-10" src={PHP} alt="HTML icon" />
+            <img className="w-20 mx-auto h-[80px]" src={PHP} alt="HTML icon" />
             <p className="my-4">PHP</p>
           </div>
           <div className="shadow-ad shadow-[#040c16] hover:scale-110 duration-500">

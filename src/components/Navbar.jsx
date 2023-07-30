@@ -29,7 +29,7 @@ const Navbar = () => {
         </li>
         <li>
           <Link to="skills" smooth={true} duration={500}>
-            Experiences
+            Expériences
           </Link>
         </li>
         <li>
@@ -69,7 +69,7 @@ const Navbar = () => {
         </li>
         <li className="py-6 text-4xl">
           <Link onClick={handleClick} to="skills" smooth={true} duration={500}>
-            Experiences
+            Expériences
           </Link>
         </li>
         <li className="py-6 text-4xl">
@@ -101,22 +101,6 @@ const Navbar = () => {
               href="https://github.com/aurelieparsonneau" target="_blank"
             >
               GitHub <FaGithub size={30} />
-            </a>
-          </li>
-          <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-green-600">
-            <a
-              className="flex justify-between items-center w-full text-gray-300"
-              href="/" target="_blank"
-            >
-              Email <HiOutlineMail size={30} />
-            </a>
-          </li>
-          <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-gray-500">
-            <a
-              className="flex justify-between items-center w-full text-gray-300"
-              href="/"
-            >
-              Resume <BsFillPersonLinesFill size={30} />
             </a>
           </li>
         </ul>

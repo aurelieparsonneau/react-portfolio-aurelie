@@ -15,7 +15,7 @@ const Work = () => {
           <p className='text-4xl font-bold inline border-b-4 text-gray-300 border-yellow-600'>
             Travaux
           </p>
-          <p className='py-6'>Voici quelques-uns de mes travaux en HTML CSS</p>
+          <p className='py-6'>Voici quelques-uns de mes travaux :</p>
         </div>
 
 {/* container for projects */}
@@ -27,10 +27,10 @@ const Work = () => {
     key={index}
     style={{ backgroundImage: `url(${item.image})` }}
     className="shadow-lg shadow-[#040c16] group container rounded-md 
-              flex justify-center text-center items-center mx-auto content-div "
+              flex justify-center text-center items-center mx-auto bg-no-repeat bg-center bg-contain h-64 content-div"
   >
     {/* Hover effect for images */}
-    <div className="opacity-0 group-hover:opacity-100 ">
+    <div className="opacity-0 group-hover:opacity-100">
       <span className="text-2xl font bold text-white tracking-wider ">
         {item.name}
       </span>
