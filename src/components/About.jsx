@@ -21,7 +21,9 @@ const About = () => {
           <div>
             <p>
             Après 15 ans passés au sein d'un cabinet d'avocats, me voici en reconversion professionnelle. Aimant le monde du numérique, c'est tout naturellement que je me suis dirigée vers le développement Web. <br/>
-            Je suis actuellement en formation "développeuse web, web mobile, full stack", au sein de l'école Web Force 3 et encadrée par l'association Social Builder.
+            Après une formation de 5 mois "développeuse web, web mobile, full stack", au sein de l'école Web Force 3 et encadrée par l'association Social Builder, je suis maintenant à la recherche de mon premier emploi en tant que développeuse junior.
+
+            Je me spécialise plus particulièrement sur le back-end, notamment avec PHP et le framework Symfony.
             </p>
           </div>
         </div>

@@ -13,7 +13,7 @@ const Home = () => {
         <h2 className="text-4xl sm:text-5xl font-bold text-[gray]">
           Développeuse full stack
         </h2>
-        <p className="text-yellow-300 py-4 max-w-[700px]">Je souhaite faire un <strong>stage d'une durée de 2 à 6 mois</strong> au sein d'une entreprise dans laquelle je pourrais allier enseignement thérorique et formation pratique.</p>
+        <p className="text-yellow-300 py-4 max-w-[700px]">Actuellement en recherche d'emploi en tant que développeuse junior. <strong>Forte appétence pour le back-end</strong>, notamment PHP / Symfony.</p>
         </div>
 
         <div>
