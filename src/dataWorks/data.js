@@ -10,15 +10,12 @@ export const data=[
         id:6,
         name:"Symfony/Bootstrap, en cours de création",
         image:iris,
-        github:"",
-        live:"",
     },
     {
         id:5,
         name:"Symfony/Tailwind",
         image:NB,
         live:"https://notabeneparis.com",
-        github:"",
     },
     {
         id:4,

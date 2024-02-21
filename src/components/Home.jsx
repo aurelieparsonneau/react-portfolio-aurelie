@@ -7,7 +7,7 @@ const Home = () => {
     <div name="home" className="bg-[#0a192f] w-full h-screen">
       <div className="max-w-[1000px] mx-auto px-8 flex flex-col justify-center h-full">
         <div>
-        <h1 className="text-4xl sm:text-6xl font-bold text-[white]">
+        <h1 className="text-4xl sm:text-6xl font-bold text-[white] pt-16">
           Aurélie Parsonneau
         </h1>
         <h2 className="text-4xl sm:text-5xl font-bold text-[gray]">
