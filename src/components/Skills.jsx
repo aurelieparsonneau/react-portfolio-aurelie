@@ -9,6 +9,7 @@ import GitHub from "../assets/github.png";
 import Tailwind from "../assets/tailwind.png";
 import PHP from "../assets/PHP.png";
 import Symfony from "../assets/symfony.svg";
+import Bootstrap from "../assets/bootstrap.png";
 
 const Skills = () => {
   return (
@@ -16,7 +17,7 @@ const Skills = () => {
       <div className="max-w-[1000px] mx-auto p-20 flex flex-col justify-center w-full h-full">
         <div>
           <p className="text-4xl font-bold inline border-b-4 border-yellow-600">
-            Expériences
+            Compétences
           </p>
           <p className="py-4">
             Technologies que j'ai étudié lors de ma formation
@@ -41,8 +42,8 @@ const Skills = () => {
             <p className="my-4">React JS</p>
           </div>
           <div className="shadow-ad shadow-[#040c16] hover:scale-110 duration-500">
-            <img className="w-20 mx-auto" src={Node} alt="HTML icon" />
-            <p className="my-4">Node JS</p>
+            <img className="w-20 mx-auto" src={Bootstrap} alt="HTML icon" />
+            <p className="my-4">Bootstrap</p>
           </div>
           <div className="shadow-ad shadow-[#040c16] hover:scale-110 duration-500">
             <img className="w-20 mx-auto" src={Tailwind} alt="HTML icon" />
